@@ -1,0 +1,27 @@
+/=================================\
+|-USER GUIDE FOR ONE MAN, FIREMAN-|
+\=================================/
+
+Welcome to the User Guide of the most exciting yet difficult game of all time!
+You are the Fireman, the best Fireman. You have been tasked to save the civilians trapped in a burning building caused by a roaring Fire monster.
+Everything seems okay till you get trapped inside and are now stuck in this burning inferno.
+Will you be able to defeat the boss, save the civilians and live to tell the tale of a hero, or will you perish and get engulfed by the ever-burning fire?
+
+The game consists of three difficulties [Easy, Normal, Hard] and an Endless mode.
+Each mode has its own leaderboard, so try your best to reach the top and be the best Fireman!
+The game ends when you defeat the boss at the end.
+
+To control your character, use the WASD keys.
+To shoot water to extinguish the fire to travel through the burning buildings, use the arrow keys.
+Power-ups are dropped throughout the map that will help your journey through the fire a bit more tolerable.
+Use Shift together with WASD keys to Sprint. Sprinting will lower your overall score, so use it wisely.
+All controls can be changed under Options > Controls.
+
+Dress your Fireman up for style! Play as just a regular Fireman, or play as the 3 other characters that are available, such as:
+- The King of the Sea, Ocean Man
+- The Conqueror of Space, Astro Man
+- The Man To Beat, M.A.N
+
+
+What are you waiting for? Time waits for noone, especially in this game.
+Be the man. Be the Fireman. 

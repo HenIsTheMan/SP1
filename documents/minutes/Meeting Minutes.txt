@@ -1,0 +1,31 @@
+MEETING MINUTES
+Team Members: Matthew george Uy Ang, Chen Qing Bing, Ling Guan Yu, Liu Hao
+
+1st Meeting 
+Date: 16 August 2019
+Time: 3pm
+Supervisor: Mr Weng Jun Xuan
+What was discussed: 
+- Layout and concept of the game.
+- Possible improvements and additions to the game.
+
+2nd Meeting
+Date: 20 August 2019
+Time: 2pm
+Supervisor: Mr Weng Jun Xuan
+What was discussed:
+- Game lacked certain unique and features and was asked to split the code into seperate folders.
+
+3rd Meeting
+Date: 22 August 2019
+Time: 4pm
+Supervisor: Mr Weng Jun Xuan
+What was discussed:
+- Follow-up on previous meeting and checked on progress.
+
+4th Meeting
+Date: 23 August 2019
+Time: 4pm
+Supervisor: Mr Weng Jun Xuan
+What was discussed: 
+- Follow-up to ensure that there were no more clarifications towards coding or non-coding related stuff

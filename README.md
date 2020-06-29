@@ -1,2 +1,9 @@
 # SP1
 2019S1_DM2198_Team_07
+
+## Acknowledgments
+
+* Team Leader: MATTHEW GEORGE UY ANG (190473K)
+* Member: CHEN QING BING (193699R)
+* Member: LING GUAN YU (193541T)
+* Member: LIU HAO (190597T)
